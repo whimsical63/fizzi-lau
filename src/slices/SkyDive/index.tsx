@@ -4,7 +4,7 @@ import { Content } from "@prismicio/client";
 import { SliceComponentProps } from "@prismicio/react";
 import {Bounded} from "@/components/Bounded";
 import {View} from "@react-three/drei";
-import Scene from "@/slices/SkyDive/Scene";
+// import Scene from "@/slices/SkyDive/Scene";
 
 /**
  * Props for `SkyDive`.
